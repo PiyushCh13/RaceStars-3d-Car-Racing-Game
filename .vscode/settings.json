@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D Car Racing.sln"
+    "dotnet.defaultSolution": "RaceStars-3d-Car-Racing-Game.sln"
 }
